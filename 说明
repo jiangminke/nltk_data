@@ -1,0 +1,2 @@
+需要使用时需要在DownGit中使用全局模式VPN下载，DownGit地址：http://zhoudaxiaa.gitee.io/downgit/#/home?url=https:%2F%2Fgithub.com%2Fnltk%2Fnltk_data%2Ftree%2Fgh-pages%2Fpackages%2Ftokenizers
+DownGit能够下载指定的文件，如果不适用则只能下载全部文件，下载完后放在本地文件夹D:\anaconda3\envs\python36\nltk_data中就能读取到该包了
